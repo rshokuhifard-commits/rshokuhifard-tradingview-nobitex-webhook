@@ -1,0 +1,6 @@
+.env
+*.log
+__pycache__/
+*.backup*
+bot_backup*.py
+bot.py.pine_test*
